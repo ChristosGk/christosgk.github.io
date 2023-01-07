@@ -3,7 +3,7 @@
 [Home](index.md) | [Sample_page](sample_page.md) | [Readme](README.md) | [Twitter]({{site.twitter}})
 
 ---
-# <i>Edit. I am etc etc .. Testing gh-pages</i>
+# <i>Edit. Testing gh-pages</i>
 
 ---
 
